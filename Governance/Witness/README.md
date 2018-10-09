@@ -107,11 +107,11 @@ https://bitsharestalk.org/index.php/topic,23925.0.html
 
 _________________________________________________________________________________________________________________________________
 
-# ./programs/cli_wallet/cli_wallet --server-rpc-endpoint=wss://node.bitshares.eu
-## Main Chain ID: 4018d7844c78f6a6c41c6a552b898022310fc5dec06da467ee7905a8dad512c8
+## ./programs/cli_wallet/cli_wallet --server-rpc-endpoint=wss://node.bitshares.eu
+### Main Chain ID: 4018d7844c78f6a6c41c6a552b898022310fc5dec06da467ee7905a8dad512c8
 
-# ./programs/cli_wallet/cli_wallet --server-rpc-endpoint=wss://node.testnet.bitshares.eu
-# ./programs/cli_wallet/cli_wallet --server-rpc-endpoint=wss://node.testnet.bitshares.ws
-## Test Chain ID: 
+## ./programs/cli_wallet/cli_wallet --server-rpc-endpoint=wss://node.testnet.bitshares.eu
+## ./programs/cli_wallet/cli_wallet --server-rpc-endpoint=wss://node.testnet.bitshares.ws
+### Test Chain ID: 39f5e2ede1f8bc1a3a54a7914414e3779e33193f1f5693510e73cb7a87617447
 
 _________________________________________________________________________________________________________________________________
